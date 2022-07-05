@@ -18,3 +18,5 @@ if every resources are available it will ask input
 filename or filepath will read the video file
 
 output video will be available in the current directory
+
+![MP_output](https://user-images.githubusercontent.com/38138168/177249376-d70dee8a-e7d3-4b95-8452-3fe9200275bc.png)
